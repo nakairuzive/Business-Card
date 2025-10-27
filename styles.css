@@ -37,12 +37,14 @@ body {
 
 a{
     text-decoration: none;
+    color: #2b2839;
 }
 
 p:hover{
     color: #532174;
 }
 
-ion-icon{
+
+ion-icon:hover{
     color: #532174;
 }
