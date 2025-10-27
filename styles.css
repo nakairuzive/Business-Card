@@ -1,0 +1,44 @@
+body {
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    background-color: #E6E6FA;
+}
+
+
+.profile-image{
+    width: 150px;
+    border-radius: 5px;
+}
+
+.card{
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    margin-left: auto;
+    margin-right: auto;   
+    width: 400px;
+    color: #2b2839;
+    background-color: #F8F8FF;
+    border-bottom: 8px solid #532174;
+    border-radius: 10px;
+}
+
+.box{
+    border: 2px solid black;
+}
+
+.networking-sites{
+   display: flex;
+   justify-content: left;
+   gap: 10px;
+   margin-top: 5px;
+}
+
+a{
+    text-decoration: none;
+}
+
+p:hover{
+    color: #532174;
+}
